@@ -54,9 +54,8 @@ Who am I? I'm Coco, just another generic Java developer. 🪐
 <br />
 
 
-
-
 <p align="center"></p>
+![stats][g-status]
 
 **CocoTeam © 2020**
 
