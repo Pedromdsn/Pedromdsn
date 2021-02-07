@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Who am I? I'm Coco, just another generic Java developer. 🪐
+Who am I? I'm Coco, just another generic Kotlin developer. 🪐
 
 <br />
 
