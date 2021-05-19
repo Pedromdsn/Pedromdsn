@@ -1,6 +1,7 @@
 # Hi there 👋
 
-Who am I? I'm Coco, just another generic Kotlin developer. 🪐
+Who am I? I'm Coco Blanco, a Kotlin developer. 🪐
+If you are interested in the world of programming, I will give you a private Java or Kotlin consultancy.
 
 <br />
 
