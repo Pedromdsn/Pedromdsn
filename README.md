@@ -8,7 +8,6 @@ Who am I? I'm Coco Blanco, a Kotlin developer. 🪐
 ## Last used features
 
 <br />
-<br />
 	
 * Languages
 
@@ -71,8 +70,25 @@ Who am I? I'm Coco Blanco, a Kotlin developer. 🪐
 <!--Mysql-->
   [<img style="padding-right: 30px;" align="right" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][tip]
 
+	
 <br />
-
+<br />
+	
+	
+* Hosting solutions 
+	
+<!--Oracle-->
+  [<img style="padding-right: 30px;" align="right" width="26px" src="https://www.datacenterplanet.com/wp-content/uploads/2021/02/oracle-cloud-logo.jpg" />][tip]
+	
+<!--Azure-->
+  [<img style="padding-right: 30px;" align="right" width="26px" src="https://www.conseil3d.com/wp-content/uploads/2021/06/logo-microsoft-cloud-azure-png.png" />][tip]
+	
+<!--Vecel-->
+  [<img style="padding-right: 30px;" align="right" width="26px" src="https://mms.businesswire.com/media/20210216006039/en/859393/23/vercel.jpg" />][tip]
+	
+<br />
+<br />
+<br />
 
 <p align="center">
 	
