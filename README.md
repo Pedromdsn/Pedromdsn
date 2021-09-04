@@ -98,11 +98,13 @@ NodeJs has been my partner for the last 1 year in the field of Web Development.
 <br />
 <br />
 <br />
+<br />
 
-<p align="center">
+
+<div align="center">
 	
 ![stats][g-status]
-</p>
+</div>
 
 **CocoBlanco © 2021**
 
