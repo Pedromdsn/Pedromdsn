@@ -7,20 +7,6 @@ Who am I? I'm Coco Blanco, a Kotlin developer. 🪐
 
 ## Last used features
 
-* Tools
-
-<!--Vscode-->
-  [<img alt="Visual Studio Code" align="right" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][tip]
-
-<!--Intellij-->
-  [<img alt="Intellij * JetBrains" style="padding-right: 10px" align="right" width="26px" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" />][tip]
-
-<!--Terminal-->
-  [<img alt="Based command line * Terminal" style="padding-right: 10px;" align="right" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][tip]
-
-<!--Git-->
-  [<img style="padding-right: 10px;" align="right" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][tip]
-
 <br />
 <br />
 	
