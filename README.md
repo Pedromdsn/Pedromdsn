@@ -15,7 +15,7 @@ NodeJs has been my partner for the last 1 year in the field of Web Development.
 
 <br />
 	
-* Languages
+## Languages
 
 <!--Kotlin-->
 [<img align="left" width="28px" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />][tip]
@@ -39,7 +39,7 @@ NodeJs has been my partner for the last 1 year in the field of Web Development.
 <br />
 <br />
 
-* Frameworks/Libs
+## Frameworks/Libs
 
 <!--NextJS-->
 [<img align="left"  width="30px" height="26px" src="https://i.imgur.com/yooVzEY.png" />][tip]
@@ -61,7 +61,7 @@ NodeJs has been my partner for the last 1 year in the field of Web Development.
 <br />
 	
 	
-* Databases 
+## Databases 
 
 <!--Mysql-->
 [<img align="left"  width="26px" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][tip]
@@ -79,7 +79,7 @@ NodeJs has been my partner for the last 1 year in the field of Web Development.
 <br />
 	
 	
-* Hosting solutions 
+## Hosting solutions 
 
 <!--Vecel-->
   [<img align="left"  width="26px" height="26px" src="https://assets.pipedream.net/s.v0/app_1xohRm/logo/orig?__acb=d951ffab3b92c8f4fa035ee397dbcb30&__fcb=7054269425066562" />][tip]
