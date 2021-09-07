@@ -42,22 +42,22 @@ NodeJs has been my partner for the last 1 year in the field of Web Development.
 
 
 <!--Spigot-->
-[<img style="padding-right: 30px;" align="right" width="26px" height="26px" src="https://avatars.githubusercontent.com/u/4350249?s=280&v=4" />][tip]
+[<img style="padding-right: 30px;"  width="26px" height="26px" src="https://avatars.githubusercontent.com/u/4350249?s=280&v=4" />][tip]
 
 <!--Prisma-->
-[<img style="padding-right: 10px;" align="right" width="26px" height="26px" src="https://img.stackshare.io/service/8680/Logo_Symbol_White.jpg" />][tip]
+[<img style="padding-right: 10px;" width="26px" height="26px" src="https://img.stackshare.io/service/8680/Logo_Symbol_White.jpg" />][tip]
 
 	
 <!--Express-->
-[<img style="padding-right: 10px;" align="right" width="35px" height="26px" src="https://w7.pngwing.com/pngs/846/87/png-transparent-mean-solution-stack-express-js-node-js-javascript-github-text-trademark-logo.png" />][tip]
+[<img style="padding-right: 10px;" width="35px" height="26px" src="https://w7.pngwing.com/pngs/846/87/png-transparent-mean-solution-stack-express-js-node-js-javascript-github-text-trademark-logo.png" />][tip]
 	
 	
 <!--React-->
-[<img style="padding-right: 5px;" align="right" width="35px" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" />][tip]
+[<img style="padding-right: 5px;"  width="35px" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" />][tip]
 
 
 <!--NextJS-->
-[<img style="padding-right: 5px;" align="right" width="35px" height="26px" src="https://i.imgur.com/tzqBcHT.png" />][tip]
+[<img style="padding-right: 5px;"width="35px" height="26px" src="https://i.imgur.com/tzqBcHT.png" />][tip]
 	
 <br />
 <br />
@@ -67,17 +67,17 @@ NodeJs has been my partner for the last 1 year in the field of Web Development.
 
 	
 <!--Sqlite-->
-[<img style="padding-right: 30px;" align="right" width="26px" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1200px-SQLite370.svg.png" />][tip]
+[<img style="padding-right: 30px;"width="26px" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1200px-SQLite370.svg.png" />][tip]
 	
 	
 <!--FireBase-->
-[<img style="padding-right: 10px;" align="right" width="26px" height="26px" src="https://www.gstatic.com/devrel-devsite/prod/v4251591579db922dac0056a2ec747cd3fa6624bdaa65e07557e166abd8873a1f/firebase/images/touchicon-180.png" />][tip]
+[<img style="padding-right: 10px;" width="26px" height="26px" src="https://www.gstatic.com/devrel-devsite/prod/v4251591579db922dac0056a2ec747cd3fa6624bdaa65e07557e166abd8873a1f/firebase/images/touchicon-180.png" />][tip]
 	
 <!--MongoDB-->
-[<img style="padding-right: 10px;" align="right" width="26px" height="26px" src="https://s3.amazonaws.com//beta-img.b2bstack.net/uploads/production/product/product_image/1571/mongoDB.jfif" />][tip]
+[<img style="padding-right: 10px;" width="26px" height="26px" src="https://s3.amazonaws.com//beta-img.b2bstack.net/uploads/production/product/product_image/1571/mongoDB.jfif" />][tip]
 	
 <!--Mysql-->
-[<img style="padding-right: 10px;" align="right" width="26px" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][tip]
+[<img style="padding-right: 10px;"  width="26px" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][tip]
 
 	
 <br />
@@ -87,13 +87,13 @@ NodeJs has been my partner for the last 1 year in the field of Web Development.
 * Hosting solutions 
 	
 <!--Oracle-->
-  [<img style="padding-right: 30px;" align="right" width="26px" height="26px" src="https://www.datacenterplanet.com/wp-content/uploads/2021/02/oracle-cloud-logo.jpg" />][tip]
+  [<img style="padding-right: 30px;"  width="26px" height="26px" src="https://www.datacenterplanet.com/wp-content/uploads/2021/02/oracle-cloud-logo.jpg" />][tip]
 	
 <!--Azure-->
-  [<img style="padding-right: 10px;" align="right" width="35px" height="26px" src="https://www.conseil3d.com/wp-content/uploads/2021/06/logo-microsoft-cloud-azure-png.png" />][tip]
+  [<img style="padding-right: 10px;"  width="35px" height="26px" src="https://www.conseil3d.com/wp-content/uploads/2021/06/logo-microsoft-cloud-azure-png.png" />][tip]
 	
 <!--Vecel-->
-  [<img style="padding-right: 10px;" align="right" width="26px" height="26px" src="https://assets.pipedream.net/s.v0/app_1xohRm/logo/orig?__acb=d951ffab3b92c8f4fa035ee397dbcb30&__fcb=7054269425066562" />][tip]
+  [<img style="padding-right: 10px;"  width="26px" height="26px" src="https://assets.pipedream.net/s.v0/app_1xohRm/logo/orig?__acb=d951ffab3b92c8f4fa035ee397dbcb30&__fcb=7054269425066562" />][tip]
 	
 <br />
 <br />
