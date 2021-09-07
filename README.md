@@ -11,9 +11,7 @@ NodeJs has been my partner for the last 1 year in the field of Web Development.
 
 <br />
 
-## Last used features
-
-<br />
+# Last used features
 	
 ## Languages
 
