@@ -26,7 +26,7 @@
 <div align="center">
 <strong>
   <font size="3rem" style="font">
-  CocoBlanco © 2021
+  Pedromdsn © 2021
   </font>
 </strong>
 </div>
