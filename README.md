@@ -23,9 +23,13 @@
 <br/>
 <div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedromdsn&show_icons=true&locale=en&layout=compact&theme=prussian" alt="pedromdsn" /></div>
 <br/>
-<h2 align="center">
+<div align="center">
+<strong>
+  <font size="3rem" style="font">
   CocoBlanco © 2021
-</h2>
+  </font>
+</strong>
+</div>
 <br/>
 <br/>
 <br/>
