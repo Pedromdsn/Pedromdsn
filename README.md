@@ -25,7 +25,7 @@
 <br/>
 <div align="center">
 <strong>
-  <font size="3rem" style="font">
+  <font size="5rem" style="font">
   Pedromdsn © 2021
   </font>
 </strong>
