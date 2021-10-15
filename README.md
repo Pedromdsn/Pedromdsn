@@ -23,9 +23,11 @@
 <br/>
 <div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedromdsn&show_icons=true&locale=en&layout=compact&theme=prussian" alt="pedromdsn" /></div>
 <br/>
+<br/>
+<br/>
 <div align="center">
 <strong>
-  <font size="5rem" style="font">
+  <font size="+2" style="font">
   Pedromdsn © 2021
   </font>
 </strong>
