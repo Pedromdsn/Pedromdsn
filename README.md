@@ -24,7 +24,7 @@ NodeJs has been my partner for the last 1 year in the field of Web Development.
 <br/>
 
 <br/>
-<div align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Pedromdsn&theme=prussian&hide_border=true&date_format=n%2Fj%5B%2FY%5" alt="pedromdsn" /></div><br/>
+<div align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Pedromdsn&theme=prussian&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="pedromdsn" /></div><br/>
 
 <br/>
 <div align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pedromdsn&show_icons=true&locale=en&theme=prussian" alt="pedromdsn" /></div>
