@@ -4,7 +4,7 @@
 
 <br/>
 
-<h2 align="center">Interests</h2>
+<h2 align="center">Story</h2>
 
 <p align="center">
 I started my programmer life with Java (mostly because of Minecraft), tried Kotlin and soon got into JavaScript / TypeScript. 🪐
