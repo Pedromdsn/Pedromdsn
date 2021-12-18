@@ -22,7 +22,7 @@
 <div align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Pedromdsn&theme=prussian&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="pedromdsn" /></div>
 <br/>
 <br/>
-<div align="center">&nbsp;<img align="center" src="https://github-readme-stats-coral-six.vercel.app/api?username=pedromdsn&show_icons=true&locale=en&theme=prussian&include_all_commits=true&count_private=true" alt="pedromdsn" /></div> 
+<div align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pedromdsn&show_icons=true&locale=en&theme=prussian&include_all_commits=true&count_private=true" alt="pedromdsn" /></div> 
 <br/>
 <br/>
 <br/>
