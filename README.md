@@ -23,6 +23,9 @@
 <br/>
 <br/>
 
+<div align="center">&nbsp;
+   <img align="center" src="https://stats.pedromdsn.com/api?username=pedromdsn&show_icons=true&locale=en&theme=prussian&include_all_commits=true&count_private=true" alt="pedromdsn" />
+</div>
 
 <br/>
 <br/>
