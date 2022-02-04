@@ -1,3 +1,4 @@
+<link rel="prefetch" href="https://www.pedromdsn.com" />
 <h1 align="center">Hi 👋, I'm Pedro</h1>
 <h3 align="center">I'm Pedro a 19 years old developer and curious about how things work.</h3>
 <br />
@@ -84,4 +85,3 @@
     <br />
     <br />
 </div>
-<link rel="prefetch" href="https://www.pedromdsn.com" />
