@@ -65,7 +65,7 @@
 </p>
 
 <div align="center">
-    <img width="40%" src="https://media.discordapp.net/attachments/816405381055381544/937905105657815060/heroes-jan-2022.png?width=478&height=478" />
+    <img width="400px" src="https://media.discordapp.net/attachments/816405381055381544/937905105657815060/heroes-jan-2022.png?width=478&height=478" />
     <div>
         <i>Second place at RocketSeat Heroes</i>
     </div>
