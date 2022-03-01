@@ -57,7 +57,7 @@
     <br />
     <br />
     <a href="https://www.pedromdsn.com/">
-        <div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedromdsn&show_icons=true&locale=en&layout=compact&theme=prussian" alt="pedromdsn" /></div>
+        <div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedromdsn&show_icons=true&locale=en&layout=compact&theme=prussian&langs_count=6" alt="pedromdsn" /></div>
     </a>
     <br />
     <br />
