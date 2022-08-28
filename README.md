@@ -76,7 +76,7 @@
     <div align="center">
         <strong>
             <font size="+2" style="font">
-                Pedromdsn © 2021
+                Pedromdsn © 2022
             </font>
         </strong>
     </div>
