@@ -43,7 +43,7 @@
     <br />
     <br />
     <br />
-    <a href="https://www.pedromdsn.com/">
+    <a href="https://www.pedromdsn.site/">
         <div align="center">
             &nbsp;
             <img align="center" src="https://github-readme-stats-alpha-indol.vercel.app
@@ -52,12 +52,12 @@
     </a>
     <br />
     <br />
-    <a href="https://www.pedromdsn.com/">
+    <a href="https://www.pedromdsn.site/">
         <div align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Pedromdsn&theme=prussian&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="pedromdsn" /></div>
     </a>
     <br />
     <br />
-    <a href="https://www.pedromdsn.com/">
+    <a href="https://www.pedromdsn.site/">
         <div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedromdsn&show_icons=true&locale=en&count_private=true&layout=compact&theme=prussian&langs_count=6" alt="pedromdsn" /></div>
     </a>
     <br />
