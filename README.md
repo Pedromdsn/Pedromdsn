@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Pedro</h1>
-<h3 align="center">I'm Pedro a 20 years old developer and curious about how things work.</h3>
+<h3 align="center">I'm Pedro a 21 years old developer and curious about how things work.</h3>
 <br />
 <h2 align="center">My history</h2>
 <p align="center">
     I started my programmer life with Java (mostly because of Minecraft), tried Kotlin and soon got into JavaScript / TypeScript. 🪐
 </p>
 <p align="center">
-    NodeJs has been my partner for the last 3 year in the field of Web Development.
+    NodeJs has been my partner for the last 4 year in the field of Web Development.
 </p>
 <br />
 <h2 align="center">Languages and Tools:</h2>
