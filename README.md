@@ -65,10 +65,6 @@
 </p>
 
 <div align="center">
-    <br />
-    <br />
-    <br />
-    <br />
     <div align="center">
         <strong>
             <font size="+2" style="font">
