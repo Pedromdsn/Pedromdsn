@@ -52,7 +52,7 @@
     <br />
     <br />
     <a href="https://www.pedromdsn.site/">
-        <div align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Pedromdsn&theme=prussian&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="pedromdsn" /></div>
+        <div align="center"><img align="center" src="https://streak-stats.demolab.com?user=pedromdsn&theme=prussian&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="pedromdsn" /></div>
     </a>
     <br />
     <br />
