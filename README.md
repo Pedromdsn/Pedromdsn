@@ -43,11 +43,6 @@
     <br />
     <br />
     <br />
-    <a href="https://pedromdsn.vercel.app//">
-        <div align="center">
-            <img align="center" src="https://github-readme-stats-alpha-indol.vercel.app/api?username=pedromdsn&show_icons=true&locale=en&theme=prussian&include_all_commits=true&count_private=true" alt="pedromdsn" />
-        </div>
-    </a>
     <br />
     <br />
     <a href="https://pedromdsn.vercel.app/">
