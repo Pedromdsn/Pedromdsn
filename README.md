@@ -43,19 +43,19 @@
     <br />
     <br />
     <br />
-    <a href="https://www.pedromdsn.site/">
+    <a href="https://pedromdsn.vercel.app//">
         <div align="center">
             <img align="center" src="https://github-readme-stats-alpha-indol.vercel.app/api?username=pedromdsn&show_icons=true&locale=en&theme=prussian&include_all_commits=true&count_private=true" alt="pedromdsn" />
         </div>
     </a>
     <br />
     <br />
-    <a href="https://www.pedromdsn.site/">
+    <a href="https://pedromdsn.vercel.app/">
         <div align="center"><img align="center" src="https://streak-stats.demolab.com?user=pedromdsn&theme=prussian&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="pedromdsn" /></div>
     </a>
     <br />
     <br />
-    <a href="https://www.pedromdsn.site/">
+    <a href="https://pedromdsn.vercel.app/">
         <div align="center"><img align="center" src="https://github-readme-stats-alpha-indol.vercel.app/api/top-langs?username=pedromdsn&show_icons=true&locale=en&count_private=true&layout=compact&theme=prussian&langs_count=6" alt="pedromdsn" /></div>
     </a>
     <br />
