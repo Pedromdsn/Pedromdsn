@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Pedro</h1>
-<p align="center">I'm Pedro a 21 years old developer and curious about how things work.</h3>
+<p align="center">I'm Pedro a 23 years old developer and curious about how things work.</h3>
 <br />
 <h2 align="center">My history</h2>
 <p align="center">
     I started my programmer life with Java (mostly because of Minecraft), tried Kotlin and soon got into JavaScript / TypeScript. 🪐
 </p>
 <p align="center">
-    NodeJs has been my partner for the last 4 year in the field of Web Development.
+    NodeJs has been my partner for the last 6 year in the field of Web Development.
 </p>
 <br />
 <h2 align="center">Languages and Tools:</h2>
@@ -43,7 +43,7 @@
     <br />
     <br />
     <br />
-    <a href="https://pedromdsn.vercel.app/">
+    <a href="https://pedromdsn.vercel.app/" align="center>
         <div align="center">
             <img align="center" src="https://github-readme-stats-alpha-indol.vercel.app//api?username=pedromdsn&show_icons=true&locale=en&theme=prussian&include_all_commits=true&count_private=true" alt="pedromdsn" />
         </div>
@@ -57,8 +57,10 @@
     <br />
     <br />
     -->
-    <a href="https://pedromdsn.vercel.app/">
-        <div align="center"><img align="center" src="https://github-readme-stats-alpha-indol.vercel.app/api/top-langs?username=pedromdsn&show_icons=true&locale=en&count_private=true&layout=compact&theme=prussian&langs_count=6" alt="pedromdsn" /></div>
+    <a href="https://pedromdsn.vercel.app/" align="center>
+        <div align="center">
+            <img align="center" src="https://github-readme-stats-alpha-indol.vercel.app/api/top-langs?username=pedromdsn&show_icons=true&locale=en&count_private=true&layout=compact&theme=prussian&langs_count=6" alt="pedromdsn" />
+        </div>
     </a>
     <br />
     <br />
@@ -69,7 +71,7 @@
     <div align="center">
         <strong>
             <font size="+2" style="font">
-                Pedromdsn © 2024
+                Pedromdsn © 2026
             </font>
         </strong>
     </div>
