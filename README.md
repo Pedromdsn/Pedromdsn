@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Pedro 👋</h1>
-  <h3>Software Engineer · FullStack Developer · TypeScript & Kotlin enthusiast</h3>
+  <h3>CyberSecurity · Software Engineer · FullStack Developer · TypeScript & Kotlin enthusiast</h3>
 
   <p>
     I'm Pedro Nogueira, also known as <strong>Pedromdsn</strong>. I build web experiences, explore how systems work, and freelance around the globe.
